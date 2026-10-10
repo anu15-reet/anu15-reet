@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi ANUREET Here 👋
 
-<!--
-**anu15-reet/anu15-reet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bachelor' Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm building my programming skills, practising problem-solving,
+and exploring software development and Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+
+- Data Structures and Algorithms
+- Problem Solving with LeetCode
+- Git and GitHub
+- AI and Data Analytics
+
+## 🎯 My Goals
+
+- Strengthen my programming fundamentals.
+- Solve coding problems consistently.
+- Build practical projects.
+- Contribute to open-source projects.
+- Prepare for software development internships.
+
+## 🛠️ Areas of Interest
+
+- Software Development
+- Data Structures and Algorithms
+- Artificial Intelligence
+- Data Analytics
+
+## 📊 My Coding Journey
+
+I'm documenting my progress one problem and one project at a time.
+
+More projects coming soon! 🚀
